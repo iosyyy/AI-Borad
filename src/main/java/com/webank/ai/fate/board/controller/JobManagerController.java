@@ -173,7 +173,9 @@ public class JobManagerController {
 
 
     @RequestMapping(value = "/query/page/new", method = RequestMethod.POST)
+    @CrossOrigin
     public ResponseResult<PageBean<Map<String, Object>>> queryPagedJob(@RequestBody PagedJobQO pagedJobQO) {
+        logger.info(pagedJobQO.toString());
         List<String> roles = pagedJobQO.getRole();
         List<String> status = pagedJobQO.getStatus();
         if (roles != null) {
