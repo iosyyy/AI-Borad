@@ -15,6 +15,8 @@
  */
 package com.webank.ai.fate.board.pojo;
 
+import org.apache.ibatis.annotations.Param;
+
 import javax.validation.constraints.NotNull;
 
 public class UpdateNotesDTO {
