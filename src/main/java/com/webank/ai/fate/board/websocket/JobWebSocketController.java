@@ -39,6 +39,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import org.springframework.stereotype.Component;
 import org.springframework.util.concurrent.ListenableFuture;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 import javax.websocket.*;
 import javax.websocket.server.PathParam;

@@ -130,7 +130,7 @@
     <orderEntry type="library" name="Maven: com.github.pagehelper:pagehelper-spring-boot-autoconfigure:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: com.github.pagehelper:pagehelper:5.1.2" level="project" />
     <orderEntry type="library" name="Maven: com.github.jsqlparser:jsqlparser:1.0" level="project" />
-    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.6" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.4" level="project" />
     <orderEntry type="library" name="Maven: ma.glasnost.orika:orika-core:1.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.16.1-GA" level="project" />
     <orderEntry type="library" name="Maven: com.thoughtworks.paranamer:paranamer:2.3" level="project" />
@@ -138,5 +138,6 @@
     <orderEntry type="library" name="Maven: com.carrotsearch:java-sizeof:0.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.ant:ant:1.10.9" level="project" />
     <orderEntry type="library" name="Maven: org.apache.ant:ant-launcher:1.10.9" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:20.1.0" level="project" />
   </component>
 </module>
