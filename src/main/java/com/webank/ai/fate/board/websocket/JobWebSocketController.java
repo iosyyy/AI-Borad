@@ -115,7 +115,6 @@ public class JobWebSocketController implements InitializingBean, ApplicationCont
     }
 
 
-
     @Override
     public void afterPropertiesSet() {
         JobWebSocketController.jobManagerService = (JobManagerService) applicationContext.getBean("jobManagerService");

@@ -1,0 +1,132 @@
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor5] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor6] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor1] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor9] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor16] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor20] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor14] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor10] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor2] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor8] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor17] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor3] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor15] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor18] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor12] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor19] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor11] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor4] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor7] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor13] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor21] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/pipeline/dag/dependency request {"role":"guest","job_id":"2021050308344891185612","party_id":10000} result: {"data":{"component_list":["secure_add_example_0"],"component_module":{"secure_add_example_0":"SecureAddExample"},"component_need_run":{"secure_add_example_0":true},"dependencies":{}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor22] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308344891185612","party_id":10000} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor23] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor27] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor36] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor40] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor41] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor28] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor34] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor25] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor35] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor32] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor39] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor42] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor33] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor31] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor30] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor26] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor24] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor29] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor38] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor37] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor43] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/pipeline/dag/dependency request {"role":"guest","job_id":"2021050308344891185612","party_id":10000} result: {"data":{"component_list":["secure_add_example_0"],"component_module":{"secure_add_example_0":"SecureAddExample"},"component_need_run":{"secure_add_example_0":true},"dependencies":{}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor44] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308344891185612","party_id":10000} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [http-nio-8080-exec-8] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/component/parameters request {"component_name":"secure_add_example_0","job_id":"2021050308344891185612","party_id":"10000","role":"guest"} result: {"data":{"SecureAddExampleParam":{"data_num":1000,"partition":48,"seed":123},"module":"SecureAddExample"},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [http-nio-8080-exec-9] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/component/parameters request {"component_name":"secure_add_example_0","job_id":"2021050308344891185612","party_id":"10000","role":"guest"} result: {"data":{"SecureAddExampleParam":{"data_num":1000,"partition":48,"seed":123},"module":"SecureAddExample"},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor49] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor50] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308250052940110","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor60] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor61] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor63] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor51] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor46] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor55] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor56] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821176634707","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor59] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030820538683665","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor45] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308344891185612","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor48] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor57] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor58] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821058608016","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor47] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"2021050308251937483711","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor52] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030822349781999","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor62] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820426782914","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor54] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor53] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"guest","job_id":"202105030821311140748","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"host":[10000]},"roles":{"guest":[10000],"host":[10000]}},"retcode":0,"retmsg":"success"}
+
+[INFO ] 2021-05-10 12:08:50 [asyncServiceExecutor64] c.w.a.f.board.utils.HttpClientPool - httpclient sent url http://8.136.225.205:9380/v1/tracking/job/data_view request {"role":"host","job_id":"202105030820317858803","party_id":"10000"} result: {"data":{"dataset":{},"model_summary":{},"partner":{"guest":[10000]},"roles":{"host":[10000]}},"retcode":0,"retmsg":"success"}
+
